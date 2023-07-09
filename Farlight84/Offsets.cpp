@@ -5,8 +5,8 @@ namespace exe
 }
 namespace offsets
 {
-	DWORD GWorld = 0x6279770;
-	DWORD GNames = 0x6109DC0;
+	DWORD GWorld = 0x62D3A50;
+	DWORD GNames = 0x6164080;
 
 	DWORD PersistentLevel = 0x30;
 	DWORD OwningGameInstance = 0x220;
